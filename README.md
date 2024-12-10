@@ -20,6 +20,6 @@ This repository include the codes as follows:
    - gpt_3_5_turbo_accuracy.ipynb
 5. Sentiment Classification
    - sentiment_classifier_gpt_3_5_turbo.ipynb 
-6. TF-IDF for Sentiment Estimation Results
+6. TF-IDF for Sentiment Classification Results
    - tf_idf.ipynb
 
