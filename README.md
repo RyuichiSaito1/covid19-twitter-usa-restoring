@@ -22,4 +22,5 @@ This repository include the codes as follows:
    - sentiment_classifier_gpt_3_5_turbo.ipynb 
 6. TF-IDF for Sentiment Classification Results
    - tf_idf.ipynb
-
+   
+* GPT 3.5 Turbo with fine-tuning is trained on the Open AI console, so the code is not included in this repository.
