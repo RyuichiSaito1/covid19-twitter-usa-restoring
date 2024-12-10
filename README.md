@@ -16,10 +16,10 @@ This repository include the codes as follows:
 3. Create Models
    - roberta_large_fine_tuning.ipynb
 4. Evaluatate Models
-  - roberta_large_fine_tuning_accuracy.ipynb
-  - gpt_3_5_turbo_accuracy.ipynb
+   - roberta_large_fine_tuning_accuracy.ipynb
+   - gpt_3_5_turbo_accuracy.ipynb
 5. Sentiment Classification
-  - sentiment_classifier_gpt_3_5_turbo.ipynb 
+   - sentiment_classifier_gpt_3_5_turbo.ipynb 
 6. TF-IDF for Sentiment Estimation Results
-  - tf_idf.ipynb
+   - tf_idf.ipynb
 
