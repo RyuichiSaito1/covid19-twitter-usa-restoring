@@ -4,9 +4,22 @@ This repository contains the source codes for the research article entitled [Res
 
 This repository include the codes as follows:
 1. Data Collection
-   - First nested list item
-3. Create Training Data 
-4. Create Models
-5. Evaluatate Models
+   - full_archive_search_nyc.ipynb
+   - full_archive_search_la.ipynb
+   - full_archive_search_chicago.ipynb
+   - unique_users.ipynb
+2. Create Training Data
+   - join_tweets_separated_by_restriction_type.ipynb
+   - create_csv_for_amazonmturk.ipynb
+   - prepare_training_and_test_data.ipynb
+   - convert_tsv_to_jsonl_for_gpt3_5_finetuning.ipynb
+3. Create Models
+   - roberta_large_fine_tuning.ipynb
+4. Evaluatate Models
+  - roberta_large_fine_tuning_accuracy.ipynb
+  - gpt_3_5_turbo_accuracy.ipynb
+5. Sentiment Classification
+  - sentiment_classifier_gpt_3_5_turbo.ipynb 
 6. TF-IDF for Sentiment Estimation Results
+  - tf_idf.ipynb
 
