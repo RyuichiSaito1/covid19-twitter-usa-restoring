@@ -4,8 +4,9 @@ This repository contains the source codes for the research article entitled [Res
 
 This repository include the codes as follows:
 1. Data Collection
-  1. A   
+   - First nested list item
 3. Create Training Data 
 4. Create Models
 5. Evaluatate Models
 6. TF-IDF for Sentiment Estimation Results
+
